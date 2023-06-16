@@ -14,7 +14,7 @@ Paso 1: Clonar el proyecto
 
 Clona el proyecto de Spring Boot en tu máquina local utilizando el siguiente comando de Git:
 
-    git clone <URL_del_repositorio>
+    git clone https://github.com/johnangelmx/proof-bitpei.git
 
 Paso 2: Configurar la base de datos
 -----------------------------------
